@@ -1,7 +1,7 @@
 # Dosei
 Github homepage
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dosei_ai)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dosei_ai)](https://x.com/dosei_ai)
 [![](https://dcbadge.vercel.app/api/server/BP5aUkhcAh?compact=true&style=flat)](https://discord.com/invite/BP5aUkhcAh)
 
 ## Learn more
